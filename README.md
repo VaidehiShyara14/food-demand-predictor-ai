@@ -53,7 +53,6 @@ Reduce food waste by predicting exact food demand based on:
 - Multilingual output (EN | HI | GU)
 - QR code login simulation for mess manager
 - Daily trend CSV logging
-- Coming soon: Charts, analytics, and filtering
 
 ---
 
